@@ -1,0 +1,5 @@
+Cyber Mate >>> Hey there, I am an Ai power ChatBot to help to maintain your Cyber Hygiene! Go ahead and clarify your doubts.
+
+User: what is hacking
+AI: Hacking refers to the unauthorized access and manipulation of computer systems, networks, or devices. It involves bypassing security measures, exploiting vulnerabilities, and gaining control over a system without permission from the owner or authorized user. This can be done for malicious purposes, such as stealing sensitive information, disrupting operations, or causing damage to the targeted system. Hacking can also be used in a white-hat context, where it is done with the intention of improving security by identifying vulnerabilities and strengthening defenses.
+
